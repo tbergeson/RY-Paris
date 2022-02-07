@@ -28,7 +28,7 @@ body {
     background-color: rgb(255, 157, 44);
 }
 .navbar-logo{
-    transform: translateX(25%);
+    transform: translateX(35%);
 }
 .navbar-links{
     transform: translateX(-25%);
@@ -119,6 +119,9 @@ body {
     display: flex;
     justify-content: space-between;
 }
+.where-imgs img{
+    border: 8px solid rgb(185, 185, 185);
+}
 .where-imgs div {
     height: 100%;
     text-align: center;
@@ -136,10 +139,10 @@ body {
     background-color: rgb(255, 157, 44);
 }
 .endbar p {
-    transform:translateX(50%);
+    transform:translateX(75%);
 }
 .endbar-links{
-    transform: translateX(-25%);
+    transform: translateX(-30%);
     width: 400px;
     display: flex;
     justify-content: space-between;
